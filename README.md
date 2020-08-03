@@ -4,11 +4,11 @@
 - MS in Mathematics(Differential Geometry)
 
 ## Study
-# Courses
+### Courses
 - [FastCampus Computer science](https://github.com/Junyeopp/FastCampus)
 - [FastCampus Algorithm](https://github.com/Junyeopp/FactCampus_Algorithm)
 
-# Books
+### Books
 <!--
 **Junyeopp/Junyeopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
