@@ -1,5 +1,14 @@
-### Hi there 👋
+### Junyeop 👋
 
+## Info
+- MS in Mathematics(Differential Geometry)
+
+## Study
+# Courses
+- [FastCampus Computer science](https://github.com/Junyeopp/FastCampus)
+- [FastCampus Algorithm](https://github.com/Junyeopp/FactCampus_Algorithm)
+
+# Books
 <!--
 **Junyeopp/Junyeopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
