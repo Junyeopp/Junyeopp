@@ -9,6 +9,7 @@
 - [FastCampus Algorithm](https://github.com/Junyeopp/FactCampus_Algorithm)
 
 ### Books
+- [Python Algorithm Interview](https://github.com/Junyeopp/python_algorithm_interview)
 <!--
 **Junyeopp/Junyeopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
