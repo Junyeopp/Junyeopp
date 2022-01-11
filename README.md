@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Blog
+[Try Everything](https://junyeopp.github.io)
+
 ### Skills
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
